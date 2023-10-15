@@ -28,4 +28,3 @@ Elements and pseudo-elements - Example: h1, ::before
 </html>
 
 ```
-```
